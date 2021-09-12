@@ -11,7 +11,7 @@ git clone https://github.com/JellyCodes/CollegePlacementPrediction.git
 
 Now in the directory with the _requirements.txt_ file run the command below 👇
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 After successful installation you should be able to run the notebook without any issues.
