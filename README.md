@@ -6,7 +6,7 @@ __NOTE__: To avoid confusion with already installed packages it's advisable to c
 
 For access to the code git clone the repository to a directory on your pc 👇
 ```
-git clone https://github.com/JellyCodes/CollegePlacementPrediction.git
+git clone https://github.com/jellyCodee/CollegePlacementPrediction.git
 ```
 
 Now in the directory with the _requirements.txt_ file run the command below 👇
@@ -23,4 +23,4 @@ Also the _collection_ and _pickle_ packages come pre-installed with python insta
 
 That's basically it. Enjoy 👍
 
-Made with ❤ JellyCodes
+Made with ❤ JellyCodee
